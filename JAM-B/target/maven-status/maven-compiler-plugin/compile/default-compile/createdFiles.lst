@@ -1,0 +1,8 @@
+com\jamb\Jamb\model\Jobid.class
+com\jamb\Jamb\controller\JobIDcontroller.class
+com\jamb\Jamb\dao\dao.class
+com\jamb\Jamb\util\ConnectDB.class
+com\jamb\Jamb\service\implementation.class
+com\jamb\Jamb\JambApplication.class
+com\jamb\Jamb\service\interfaces.class
+com\jamb\Jamb\model\users.class
